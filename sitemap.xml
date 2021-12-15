@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" >
+  <url>
+    <loc>https://www.toyota.com/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/' />
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/dealers/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/dealers/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/dealers/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/recall/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/kbb/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/kbb' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/kbb' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/configurator/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/configurator/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/configurator/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/accessories/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/accessories/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/accessories/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/findyourmatch/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/findyourmatch/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/findyourmatch/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/suvs/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/suvs/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/suvs/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/trucks/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/trucks/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/trucks/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/cars/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/cars/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/cars/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/crossovers/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/crossovers/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/crossovers/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/hybrid/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/hybrid/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/hybrid/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/trdpro/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/trdpro/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/trdpro/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/nightshade/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/nightshade/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/nightshade/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/dealers/directory/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/dealers/directory/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/dealers/directory/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/connect/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/connect/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/connect/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/fleet/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/fleet/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/fleet/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/rental/</loc>
+    <xhtml:link rel='alternate' hreflang='en-us' href='https://www.toyota.com/rental/index.html' />
+    <xhtml:link rel='alternate' hreflang='es-us' href='https://www.toyota.com/espanol/alquilar/index.html' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/usa/careers/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/usa/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/racing/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/support/accessibility</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/support/accessibility' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/support/accessibility' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/privacyvts/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2019-12-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/support</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/support/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/support/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/support/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/support/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/support/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/dealers/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/dealers/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/dealers/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/recall/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/kbb/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/kbb' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/kbb' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/accessories/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/accessories/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/accessories/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/suvs/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/suvs/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/suvs/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/trucks/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/trucks/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/trucks/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/cars/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/cars/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/cars/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/crossovers/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/crossovers/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/crossovers/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/hybrid/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/hybrid/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/hybrid/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/trdpro/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/trdpro/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/trdpro/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/nightshade/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/nightshade/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/nightshade/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/dealers/directory/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/dealers/directory/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/dealers/directory/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/connect/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/connect/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/connect/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/fleet/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/fleet/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/fleet/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/alquilar/</loc>
+    <xhtml:link rel='alternate' hreflang='en-us' href='http://www.toyota.com/rental/index.html' />
+    <xhtml:link rel='alternate' hreflang='es-us' href='http://www.toyota.com/espanol/alquilar/index.html' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/usa/nuestrahistoria/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-08-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/espanol/support/accessibility</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/support/accessibility' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/support/accessibility' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/camry/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/camry/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/camry/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/camryhybrid/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/camryhybrid/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/camryhybrid/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/yaris/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/yaris/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/yaris/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/yarishatchback/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/yarishatchback/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/yarishatchback/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.toyota.com/corolla/</loc>
+    <xhtml:link rel='alternate' hreflang='en' href='https://www.toyota.com/corolla/' />
+    <xhtml:link rel='alternate' hreflang='es' href='https://www.toyota.com/espanol/corolla/' />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2020-10-12</lastmod>
+  </url>
+</urlset>
