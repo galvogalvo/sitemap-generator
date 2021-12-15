@@ -53,7 +53,9 @@ module.exports = function SitemapStream(options) {
       stream.write(`\n    <xhtml:link rel='alternate' hreflang='` + alternativeUrl.lang +
         `' href='` + escapeUnsafe(alternativeUrl.url) + `' />`);
     }
-    stream.write(`\n    <changefreq>` + options.changeFreq + `</changefreq>`);
+    if(options.changeFreq){
+      stream.write(`\n    <changefreq>` + options.changeFreq + `</changefreq>`);
+    }
     stream.write(`\n    <priority>` + getPiriorityFromDepth(queueItem.depth) + `</priority>`);
     stream.write(`\n    <lastmod>` + queueItem.lastMod + `</lastmod>`);
     stream.write(`\n  </url>`);
